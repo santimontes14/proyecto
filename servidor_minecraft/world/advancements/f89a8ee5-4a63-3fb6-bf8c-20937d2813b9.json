@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-12 19:12:57 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/misc/saddle": {
     "criteria": {
       "has_leather": "2025-04-12 18:55:22 +0000"
@@ -257,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-12 19:15:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-04-12 18:37:24 +0000"
@@ -385,6 +397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-12 19:12:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-04-12 19:00:25 +0000"
@@ -505,6 +523,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-12 19:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2025-04-12 19:12:57 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_mahogany": {
     "criteria": {
       "entered_water": "2025-04-12 18:26:36 +0000"
@@ -589,6 +619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-12 19:13:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2025-04-12 18:46:55 +0000"
@@ -610,6 +646,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-04-12 19:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2025-04-12 19:14:00 +0000"
     },
     "done": true
   },
@@ -658,6 +700,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2025-04-12 18:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-12 19:17:12 +0000"
     },
     "done": true
   },
@@ -777,7 +825,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "zombie": "2025-04-12 18:35:54 +0000"
+      "skeleton": "2025-04-12 19:15:39 +0000",
+      "zombie": "2025-04-12 18:35:54 +0000",
+      "creeper": "2025-04-12 19:21:28 +0000"
     },
     "done": false
   },
@@ -880,6 +930,18 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2025-04-12 18:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-04-12 19:14:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2025-04-12 19:14:00 +0000"
     },
     "done": true
   },

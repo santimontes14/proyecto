@@ -4922,3 +4922,56 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19:11:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [45, 44] in dimension 0 (overworld) while populating chunk [45, 43], causing cascading worldgen lag.
 [19:11:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [19:12:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has made the advancement [Acquire Hardware]
+[19:12:45] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [47, 43] in dimension 0 (overworld) while populating chunk [46, 43], causing cascading worldgen lag.
+[19:12:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:12:49] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [40, 22] in dimension 0 (overworld) while populating chunk [41, 23], causing cascading worldgen lag.
+[19:12:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:13:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [46, 29] in dimension 0 (overworld) while populating chunk [46, 30], causing cascading worldgen lag.
+[19:13:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:13:20] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [46, 28] in dimension 0 (overworld) while populating chunk [46, 30], causing cascading worldgen lag.
+[19:13:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:14:00] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [49, 40] in dimension 0 (overworld) while populating chunk [48, 40], causing cascading worldgen lag.
+[19:14:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:14:00] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [49, 39] in dimension 0 (overworld) while populating chunk [49, 40], causing cascading worldgen lag.
+[19:14:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:14:00] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [49, 38] in dimension 0 (overworld) while populating chunk [49, 40], causing cascading worldgen lag.
+[19:14:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:14:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has made the advancement [Not Today, Thank You]
+[19:15:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork is bleeding...
+[19:15:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> AYUDAAAA
+[19:15:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Not Today, Thank You]
+[19:17:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus is bleeding...
+[19:18:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chrisus> SOCORROOOOOOOOOOOOOOO
+[19:18:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus was slain by Spider
+[19:18:33] [Server thread/INFO] [STDOUT]: [asmodeuscore.core.event.AsmodeusEvent:onPlayerJoinWorld:121]: Test event 2
+[19:18:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to 572.5, 30.5, 604.5]
+[19:18:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork is bleeding...
+[19:18:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus is bleeding...
+[19:18:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork was slain by Vex
+[19:18:54] [Server thread/INFO] [STDOUT]: [asmodeuscore.core.event.AsmodeusEvent:onPlayerJoinWorld:121]: Test event 2
+[19:18:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus was slain by Vex
+[19:18:56] [Server thread/INFO] [STDOUT]: [asmodeuscore.core.event.AsmodeusEvent:onPlayerJoinWorld:121]: Test event 2
+[19:18:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Set own game mode to Creative Mode]
+[19:19:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Set own game mode to Creative Mode]
+[19:19:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to 577.5, 33.5, 601.5]
+[19:19:04] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:19:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to 581.5, 30.5, 608.5]
+[19:19:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[19:19:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Set own game mode to Survival Mode]
+[19:20:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[19:21:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Set own game mode to Survival Mode]
+[19:21:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[19:21:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: santydork lost connection: Disconnected
+[19:21:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork left the game
+[19:21:57] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[19:21:57] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 112 mods : galaxyspace@2.1.5,supermartijn642configlib@1.1.6,elenaidodge@2.1,creativecoredummy@1.0.0,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,rsgauges@1.2.8,bettercaves@1.12.2,controlling@3.0.10,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.4,placebo@1.6.0,llibrary@1.7.20,uteamcore@2.2.5.355,simpleplanes@3.0.1.7,dynamiclights_otherplayers@1.0.9,morpheus@1.12.2-3.5.106,waila@1.8.26,galacticraftplanets@4.0.7,thaumcraft@6.1.BETA26,twilightforest@3.11.1021,morph@7.2.0,betterpingdisplay@1.0,usefulbackpacks@1.5.4.85,biomesoplenty@7.0.1.2445,reccomplex@1.4.8.6,vehicle@0.44.1,supermartijn642corelib@1.1.18,creepypastacraft@2,dynamiclights_mobequipment@1.1.0,highlighter@1.1.7,recall@1.0,roguelike@1.7.2,patchouli@1.0-23.6,collective@3.0,FML@8.0.99.99,obfuscate@0.4.2,atlaslib@1.1.6,spartanweaponry@1.6.0,aiimprovements@0.0.1.3,globalxp@v1.4.10,mace_backport@5.1.1.1,chunkloaders@1.2.8b,dynamiclights_creepers@1.0.6,particleculling@v1.4.3,strayspawn@1.3,fastleafdecay@v14,letmedespawn@1.0,dynamictrees@1.12.2-0.9.29,playerrevive@1.0,ezstorage2patch@1.4.1,savemystronghold@1.12.2-1.0.0,mowziesmobs@1.5.8,simplyjetpacks@1.12.2-2.2.20.0,mixinbooter@10.6,trashslot@8.4.10,cgm@0.15.3,renderlib@1.4.3,jei@4.16.1.1013,damageindicatorsmod@1.0,dynamiclights_theplayer@1.1.3,ivtoolkit@1.3.3-1.12,opencomputers@1.8.8,yoyos@1.12.2-1.3.3.25,mcp@9.42,artifacts@1.12.2-1.2.4,asmodeuscore@1.0.3,champions@1.12.2-1.0.11.10,foamfixcore@7.7.4,iceandfire@1.9.1,ichunutil@7.2.2,packingtape@0.7.6,micdoodlecore@4.0.7,hbm@NTM-Extended-1.12.2-2.0.2,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,chococraft@0.9.1.52,minecraft@1.12.2,portalgun@7.1.0,capsule@1.12.2-3.4.76,enchdesc@1.1.20,mousetweaks@2.10.1,dynamiclights_entityclasses@1.0.1,baubles@1.5.2,jade@0.1.0,shouldersurfing@2.9.6,creativecore@1.10.0,dynamiclights_dropitems@1.1.0,dynamiclights_flamearrows@1.0.1,oe@1.2.1,ezstorage@2.5.0,legendarytooltips@1.1.9,spartanshields@1.5.5,xaerominimap@25.2.0,fastbench@1.7.4,galacticraftcore@4.0.7,performant@1.12.2-1.5,entityculling@@VER@,offlineskins@1.12.2-v6,farsight@1.6,fastfurnace@1.3.1,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,backtools@7.0.1,foamfix@@VERSION@,aether_legacy@1.5.4.1,opencomputers|core@1.8.8,nothirium@0.4.5-beta,dynamiclights_onfire@1.0.7,followme@1.1.5a,cosmeticarmorreworked@1.12.2-v5a,responsiveshields@2.3
+[19:22:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:22:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: santydork[/127.179.80.67:60693] logged in with entity id 64510 at (553.6821296675575, 50.0, 576.6999999880791)
+[19:22:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork joined the game
+[19:22:05] [Server thread/INFO] [STDOUT]: [asmodeuscore.core.event.AsmodeusEvent:onPlayerJoinWorld:121]: Test event 2
+[19:22:05] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['santydork'/64510, l='world', x=553.68, y=50.00, z=576.70] connected. Sending ping
+[19:22:05] [Server thread/INFO] [STDOUT]: [asmodeuscore.core.event.AsmodeusEvent:onPlayerLogIn:108]: Test event
+[19:22:05] [Server thread/INFO] [STDOUT]: [pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: ivorius.reccomplex.Repository.openWebLink
+[19:22:05] [Server thread/INFO] [capsule.loot.StarterLoot]: playerLogin: already received starters
+[19:22:05] [ForkJoinPool-1-worker-3/INFO] [opencomputers]: Starting OpenComputers version check.
+[19:22:05] [ForkJoinPool-1-worker-3/INFO] [opencomputers]: Running the latest OpenComputers version.
