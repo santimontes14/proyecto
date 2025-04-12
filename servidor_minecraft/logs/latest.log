@@ -8775,3 +8775,32 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [20:42:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: santydork moved too quickly! 0.5782468878724103,-0.5009966402674735,10.233903263299453
 [20:42:36] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [-37, 181], causing cascading worldgen lag.
 [20:42:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:50:25] [Server thread/INFO] [morpheus]: santydork is now sleeping. 1/2 (50%)
+[20:50:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: santydork moved wrongly!
+[20:51:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to 165.5, 18.5, 719.5]
+[20:51:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork is bleeding...
+[20:52:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported santydork to Chrisus]
+[20:53:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to 165.5, 18.5, 719.5]
+[20:54:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Chrisus> xaero-waypoint:petroleo:P:170:24:662:2:false:0:Internal-overworld-waypoints
+[20:54:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to 170.5, 24.5, 662.5]
+[20:55:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[20:56:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to 170.5, 24.5, 662.5]
+[21:00:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork is bleeding...
+[21:00:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Killed santydork]
+[21:00:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork fell out of the world
+[21:00:29] [Server thread/INFO] [STDOUT]: [asmodeuscore.core.event.AsmodeusEvent:onPlayerJoinWorld:121]: Test event 2
+[21:00:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -732.5, 71.5, 2681.5]
+[21:01:26] [Server thread/INFO] [morpheus]: santydork is now sleeping. 1/2 (50%)
+[21:01:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: santydork moved wrongly!
+[21:02:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has made the advancement [Under Pressure]
+[21:02:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to 170.5, 24.5, 662.5]
+[21:03:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:mothman that already exists with UUID 8008eb83-cb2f-490d-96b4-45519e8cb91a
+[21:03:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -732.5, 71.5, 2681.5]
+[21:04:28] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[21:04:28] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[8, 9, 11], dest=[8, 8, 11]}=Wall, MazePassage{source=[7, 8, 11], dest=[8, 8, 11]}=Path, MazePassage{source=[8, 8, 10], dest=[8, 8, 11]}=Wall]
+[21:04:28] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[21:04:28] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[8, 8, 8], dest=[7, 8, 8]}=Wall, MazePassage{source=[7, 9, 8], dest=[7, 8, 8]}=Wall, MazePassage{source=[7, 7, 8], dest=[7, 8, 8]}=Wall, MazePassage{source=[7, 8, 9], dest=[7, 8, 8]}=Path, MazePassage{source=[6, 8, 8], dest=[7, 8, 8]}=Wall, MazePassage{source=[7, 8, 7], dest=[7, 8, 8]}=Wall]
+[21:04:28] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[21:04:28] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[8, 8, 13], dest=[8, 8, 12]}=Wall, MazePassage{source=[7, 8, 12], dest=[8, 8, 12]}=Path, MazePassage{source=[8, 9, 12], dest=[8, 8, 12]}=Wall]
+[21:04:29] [pool-8-thread-1/WARN] [ivtoolkit]: Did not find fitting component for maze!
+[21:04:29] [pool-8-thread-1/WARN] [ivtoolkit]: Suggested: X with exits [MazePassage{source=[7, 6, 13], dest=[8, 6, 13]}=Wall, MazePassage{source=[8, 7, 13], dest=[8, 6, 13]}=Wall, MazePassage{source=[8, 6, 12], dest=[8, 6, 13]}=Path]
