@@ -5226,3 +5226,4 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19:24:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to 314.5, 63.5, 648.5]
 [19:25:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
 [19:27:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Given [Flint and Steel] * 1 to Chrisus]
+[19:37:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
