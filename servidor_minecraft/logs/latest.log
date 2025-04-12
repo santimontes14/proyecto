@@ -5227,3 +5227,9 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [19:25:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
 [19:27:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Given [Flint and Steel] * 1 to Chrisus]
 [19:37:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
+[19:44:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] hola
+[19:44:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus is bleeding...
+[19:49:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to 314.5, 63.5, 648.5]
+[19:49:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
+[19:53:00] [Server thread/INFO] [morpheus]: Chrisus is now sleeping. 1/2 (50%)
+[19:53:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved wrongly!
