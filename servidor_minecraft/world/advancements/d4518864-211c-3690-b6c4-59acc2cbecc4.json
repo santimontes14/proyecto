@@ -255,6 +255,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-12 19:13:08 +0000",
       "cooked_mutton": "2025-04-12 18:40:32 +0000",
+      "bread": "2025-04-15 23:51:02 +0000",
       "carrot": "2025-04-12 19:07:14 +0000"
     },
     "done": false
@@ -1027,6 +1028,12 @@
   "simplyjetpacks:vanilla/root_vanilla": {
     "criteria": {
       "code_trigger": "2025-04-12 18:25:54 +0000"
+    },
+    "done": true
+  },
+  "creepypastacraft:mothswatter": {
+    "criteria": {
+      "mothswatter": "2025-04-15 23:46:39 +0000"
     },
     "done": true
   },
