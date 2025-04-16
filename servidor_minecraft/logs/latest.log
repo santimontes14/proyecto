@@ -3819,3 +3819,64 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [00:54:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:mothman that already exists with UUID 59565300-e25d-47cb-9ff6-363c5ca05f0e
 [00:55:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
 [00:55:07] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[00:55:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[00:55:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[00:55:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork is bleeding...
+[00:55:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus is bleeding...
+[00:56:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork blew up
+[00:56:03] [Server thread/INFO] [STDOUT]: [asmodeuscore.core.event.AsmodeusEvent:onPlayerJoinWorld:121]: Test event 2
+[00:56:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:mothman that already exists with UUID 4d5a42b2-3389-4dc1-8d7d-fe7ba446b7a6
+[00:57:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:seedeater that already exists with UUID ab6f97da-97f2-43c3-a50a-28a4dd1222f2
+[00:57:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[00:57:04] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[00:57:19] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:seedeater that already exists with UUID ab6f97da-97f2-43c3-a50a-28a4dd1222f2
+[00:57:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:seedeater that already exists with UUID ab6f97da-97f2-43c3-a50a-28a4dd1222f2
+[00:58:01] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [30, 64] in dimension 0 (overworld) while populating chunk [30, 63], causing cascading worldgen lag.
+[00:58:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:58:41] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [35, 56] in dimension 0 (overworld) while populating chunk [34, 56], causing cascading worldgen lag.
+[00:58:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:58:41] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [34, 63] in dimension 0 (overworld) while populating chunk [34, 62], causing cascading worldgen lag.
+[00:58:41] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:00:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:mothman that already exists with UUID 4d5a42b2-3389-4dc1-8d7d-fe7ba446b7a6
+[01:00:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:seedeater that already exists with UUID ab6f97da-97f2-43c3-a50a-28a4dd1222f2
+[01:00:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2398ms behind, skipping 47 tick(s)
+[01:00:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:mothman that already exists with UUID 4d5a42b2-3389-4dc1-8d7d-fe7ba446b7a6
+[01:00:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:00:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:00:52] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:mothman that already exists with UUID 4d5a42b2-3389-4dc1-8d7d-fe7ba446b7a6
+[01:01:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:01:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:01:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:01:55] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:02:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:02:43] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:04:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:04:13] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:04:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:04:49] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:04:54] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:mothman that already exists with UUID 9ae994cb-0f0e-458e-9f6b-1c9e08531dbf
+[01:05:06] [Server thread/INFO] [morpheus]: Chrisus is now sleeping. 1/2 (50%)
+[01:05:06] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved wrongly!
+[01:05:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:05:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] down
+[01:07:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:07:18] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:08:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:08:05] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:09:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:09:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:09:27] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:10:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:10:14] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:10:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:mothman that already exists with UUID 9ae994cb-0f0e-458e-9f6b-1c9e08531dbf
+[01:11:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:11:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:11:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:11:48] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:13:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:13:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:13:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:13:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:14:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:mothman that already exists with UUID 4d5a42b2-3389-4dc1-8d7d-fe7ba446b7a6
+[01:15:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:mothman that already exists with UUID 4d5a42b2-3389-4dc1-8d7d-fe7ba446b7a6
