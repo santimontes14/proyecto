@@ -3880,3 +3880,36 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [01:13:50] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
 [01:14:31] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:mothman that already exists with UUID 4d5a42b2-3389-4dc1-8d7d-fe7ba446b7a6
 [01:15:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:mothman that already exists with UUID 4d5a42b2-3389-4dc1-8d7d-fe7ba446b7a6
+[01:15:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:mothman that already exists with UUID 4d5a42b2-3389-4dc1-8d7d-fe7ba446b7a6
+[01:16:27] [Server thread/INFO] [morpheus]: Chrisus is now sleeping. 1/2 (50%)
+[01:16:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved wrongly!
+[01:16:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:16:51] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:18:26] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:mothman that already exists with UUID 4d5a42b2-3389-4dc1-8d7d-fe7ba446b7a6
+[01:18:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:mothman that already exists with UUID 6f7c21b9-fec8-43e6-93b8-3c6da73f2614
+[01:18:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:18:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:18:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork is bleeding...
+[01:18:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork was blown up by Chrisus
+[01:18:45] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:18:45] [Server thread/INFO] [STDOUT]: [asmodeuscore.core.event.AsmodeusEvent:onPlayerJoinWorld:121]: Test event 2
+[01:19:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:19:15] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:19:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:19:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:20:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Object successfully summoned]
+[01:20:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:sheep that already exists with UUID 63afa63d-b82f-43e3-ab75-2ea5506f7508
+[01:21:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:21:57] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:22:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:22:09] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:22:19] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [22, 65] in dimension 0 (overworld) while populating chunk [21, 66], causing cascading worldgen lag.
+[01:22:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:22:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:sheep that already exists with UUID 63afa63d-b82f-43e3-ab75-2ea5506f7508
+[01:23:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:23:22] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:23:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:23:41] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:24:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 2b61e1e7-7d0e-41d0-83d0-67425ce27bf4
+[01:24:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:pig that already exists with UUID 9dffd432-3a25-487f-88d6-9c50aa4509a1
+[01:24:33] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity creepypastacraft:mothman that already exists with UUID 59565300-e25d-47cb-9ff6-363c5ca05f0e
