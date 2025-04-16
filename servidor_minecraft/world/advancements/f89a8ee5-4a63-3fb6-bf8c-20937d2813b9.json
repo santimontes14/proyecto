@@ -273,6 +273,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-12 19:00:10 +0000",
       "cooked_mutton": "2025-04-12 18:41:12 +0000",
+      "cooked_chicken": "2025-04-16 00:23:26 +0000",
       "carrot": "2025-04-12 19:07:29 +0000"
     },
     "done": false
@@ -415,6 +416,12 @@
     },
     "done": true
   },
+  "hbm:progress_assembler": {
+    "criteria": {
+      "crafting_table": "2025-04-16 00:39:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-12 19:55:40 +0000"
@@ -439,9 +446,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-04-16 00:32:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-12 19:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2025-04-16 00:39:10 +0000"
     },
     "done": true
   },
@@ -502,6 +521,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-04-12 19:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-16 00:36:34 +0000"
     },
     "done": true
   },
@@ -699,6 +724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2025-04-16 00:23:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-12 18:37:24 +0000"
@@ -813,6 +844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2025-04-16 00:31:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-12 19:55:40 +0000"
@@ -858,6 +895,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2025-04-12 19:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-04-16 00:32:55 +0000"
     },
     "done": true
   },
@@ -1368,6 +1411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-04-16 00:31:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2025-04-12 19:55:40 +0000"
@@ -1377,6 +1426,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-04-12 19:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2025-04-16 00:39:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-04-16 00:37:30 +0000"
     },
     "done": true
   },
